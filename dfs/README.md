@@ -9,7 +9,9 @@ First create the new directories
 
 
 Run the code:
+
 python3 listing.py
+
 g++ *.h *.cpp -lSDL2 -lSDL2_ttf -lSDL2_image -fopemp -o Run
 
 And to run, just type:
