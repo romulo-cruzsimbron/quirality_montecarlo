@@ -1,4 +1,5 @@
-# Quiral amplification lattice project
+# Quiral Amplification Lattice Project
+This code example is for run a simulation in a racemic lattice. 
 
 Run the code:
 
