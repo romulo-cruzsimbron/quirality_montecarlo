@@ -1,7 +1,4 @@
-# quirality_montecarlo
-# Lattice
-
-Aminoacid lattice project
+# Quiral amplification lattice project
 
 Run the code:
 
