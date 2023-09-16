@@ -6,6 +6,8 @@ First create the new directories
 - Quiralidad_exceso
 - Quiralidad_green
 - Quiralidad_yellow
+
+
 Run the code:
 python3 listing.py
 g++ *.h *.cpp -lSDL2 -lSDL2_ttf -lSDL2_image -fopemp -o Run
